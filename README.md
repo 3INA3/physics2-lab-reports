@@ -1,46 +1,62 @@
-# ⚡ Physics Lab II — Full Lab Reports
+<div align="center">
 
-### آزمایشگاه فیزیک ۲ | گزارش کار کامل (آزمایش‌های ۱ تا ۱۰)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=160&section=header&text=Physics%20Lab%20II&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-گزارش کار تعاملی و کامل درس **آزمایشگاه فیزیک ۲**  
-شامل جداول داده، محاسبهٔ خودکار خطا، نمودار، مدار و خروجی قابل چاپ A4
+<br/>
 
-**Official source only · © 2026 Sina Shojaeian (3INA3) · All Rights Reserved**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA&center=true&vCenter=true&width=850&lines=آزمایشگاه+فیزیک+۲;گزارش+کار+کامل+۱+تا+۱۰;جداول+•+نمودار+•+چاپ+A4;Made+by+Sina+Shojaeian+(3INA3)" alt="Typing SVG" />
 
----
+</div>
 
-## 🔗 دسترسی | Access
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-| Title | Description | Link |
-| --- | --- | --- |
-| 🧪 **گزارش کار کامل فیزیک ۲** | آزمایش‌های ۱ تا ۱۰ · جداول · نمودار · چاپ | [📂 Repository](https://github.com/3INA3/physics2-lab-reports) |
+<br/>
 
-> فایل اصلی را دانلود کن و با مرورگر باز کن. برای خروجی کاغذی: **Print → Save as PDF**
+<div align="center">
 
----
+### 🌐 Live Demo | مشاهده آنلاین
 
-## 🇮🇷 درباره پروژه
+<a href="https://3ina3.github.io/physics2-lab-reports/">
+  <img src="https://img.shields.io/badge/Live_Demo-3ina3.github.io-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo"/>
+</a>
 
-این سامانه یک **گزارش‌کار تعاملی کامل** برای درس آزمایشگاه فیزیک ۲ است:
+<br/><br/>
 
-- پوشش آزمایش‌های **۱ تا ۱۰**
-- ورود داده + محاسبهٔ خودکار \(R\)، \(\Delta R\)، میانگین و شیب
-- نمودار اسکتر + رگرسیون خطی (حداقل مربعات)
-- نمایش مقاومت رنگی و مدار
-- خروجی چاپ‌پسند A4 با واترمارک و کد سند
+**👉 [https://3ina3.github.io/physics2-lab-reports/](https://3ina3.github.io/physics2-lab-reports/)**
+
+<br/>
+
+[![Language](https://img.shields.io/badge/زبان-فارسی_RTL-22d3ee?style=for-the-badge)](#)
+[![HTML](https://img.shields.io/badge/HTML-Interactive_Lab-f472b6?style=for-the-badge)](#)
+[![Print](https://img.shields.io/badge/Print-A4_Ready-10b981?style=for-the-badge)](#)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📖 درباره پروژه | About the Project
+
+**فارسی**  
+گزارش کار تعاملی و کامل درس **آزمایشگاه فیزیک ۲** شامل آزمایش‌های **۱ تا ۱۰**  
+با جداول داده، محاسبهٔ خودکار، نمودار اسکتر + رگرسیون، مدار، مقاومت رنگی و خروجی چاپ A4.
+
+**English**  
+Interactive full lab-report system for **Physics Laboratory II** (Experiments **1–10**)  
+with data tables, automatic calculations, scatter + linear regression charts, circuits, color-code resistors, and A4 print output.
 
 ---
 
 ## ✨ ویژگی‌ها | Features
 
-| ویژگی | توضیح |
-| --- | --- |
-| 📋 گزارش چندآزمایشی | آزمایش‌های ۱ تا ۱۰ در یک فایل |
-| 🧮 محاسبه خودکار | \(R = V/I\) ، خطا، میانگین، شیب نمودار |
-| 📊 نمودار آزمایشگاهی | اسکتر + فیت خطی شبیه اکسل |
-| 🖨️ چاپ A4 | هدر/فوتر و واترمارک در تمام صفحات پرینت |
-| 📱 RTL کامل | رابط فارسی و راست‌چین |
-| 🛡️ نسخه محافظت‌شده | Digital Document ID + Copyright |
+| Feature | توضیح | Description |
+|---------|--------|-------------|
+| 🧪 **آزمایش ۱ تا ۱۰** | گزارش کامل چندآزمایشی در یک فایل | Full multi-experiment lab report |
+| 🧮 **محاسبه خودکار** | \(R=V/I\) ، خطا، میانگین، شیب | Auto \(R\), uncertainty, mean, slope |
+| 📊 **نمودار آزمایشگاهی** | اسکتر + فیت خطی (حداقل مربعات) | Scatter + least-squares fit |
+| 🔌 **مدار و مقاومت رنگی** | نمایش بصری قطعات | Circuit + resistor color bands |
+| 🖨️ **چاپ A4** | هدر/فوتر و واترمارک در همه صفحات | Print-ready with watermark |
+| 🇮🇷 **راست‌چین کامل** | طراحی RTL فارسی | Fully RTL Persian UI |
+| 📱 **ریسپانسیو** | موبایل، تبلت، دسکتاپ | Mobile / tablet / desktop |
 
 ---
 
@@ -51,38 +67,15 @@
 - مدارهای ترکیبی  
 - پل وتستون  
 - تحقیق قانون اهم  
-- و ادامهٔ آزمایش‌های گزارش کامل ۱ تا ۱۰  
+- و سایر آزمایش‌های گزارش کامل ۱ تا ۱۰  
 
 ---
 
-## 🛡️ کپی‌رایت | Copyright
+## 🚀 نحوه استفاده
 
-**© ۱۴۰۵ / ۲۰۲۶ · سینا شجاعیان (3INA3)**
+1. از **Live Demo** باز کن، یا فایل `index.html` را دانلود و در مرورگر باز کن  
+2. داده را وارد کن — محاسبات خودکار انجام می‌شود  
+3. برای خروجی کاغذی: **Print → Save as PDF**
 
-تمام حقوق این گزارش کار محفوظ است.  
-هرگونه کپی‌برداری، بازتولید، ویرایش، توزیع یا انتشار مجدد بخش یا تمام این اثر،  
-به هر شکل و در هر رسانه‌ای، بدون اجازهٔ کتبی و صریح نویسنده ممنوع است.  
-این نسخه صرفاً برای استفادهٔ شخصی و مطالعه در نظر گرفته شده است.
-
-**© 2026 Sina Shojaeian (3INA3)**  
-All Rights Reserved.  
-Unauthorized copying, redistribution or commercial use is strictly prohibited.
-
-**Serial:** `SS-PHYS2-F222-9D2F-2026-FULL`  
-**Digital Document ID:** `3INA3-PHYS2-LAB-20261116-F2229D2F`  
-
-**مرجع رسمی و معتبر دانلود:**  
-https://github.com/3INA3/physics2-lab-reports
-
----
-
-## 👤 Author
-
-**Sina Shojaeian (3INA3)**  
-AI Engineer & Technical Instructor  
-
-GitHub: [github.com/3INA3](https://github.com/3INA3)
-
----
-
-Made with ❤️ by **Sina Shojaeian (3INA3)**
+```bash
+# نیاز به نصب ندارد — فقط HTML را باز کنید
