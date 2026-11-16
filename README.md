@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA&center=true&vCenter=true&width=850&lines=آزمایشگاه+فیزیک+۲;گزارش+کار+کامل+۱+تا+۱۰;جداول+•+نمودار+•+چاپ+A4;Made+by+Sina+Shojaeian+(3INA3)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA&center=true&vCenter=true&width=900&lines=آزمایشگاه+فیزیک+۲;Physics+Laboratory+II;گزارش+کار+کامل+۱+تا+۱۰;Full+Lab+Reports+(1–10);Made+by+Sina+Shojaeian+(3INA3)" alt="Typing SVG" />
 
 </div>
 
@@ -27,6 +27,7 @@
 <br/>
 
 [![Language](https://img.shields.io/badge/زبان-فارسی_RTL-22d3ee?style=for-the-badge)](#)
+[![Language](https://img.shields.io/badge/Language-English-8b5cf6?style=for-the-badge)](#)
 [![HTML](https://img.shields.io/badge/HTML-Interactive_Lab-f472b6?style=for-the-badge)](#)
 [![Print](https://img.shields.io/badge/Print-A4_Ready-10b981?style=for-the-badge)](#)
 
@@ -36,46 +37,53 @@
 
 ## 📖 درباره پروژه | About the Project
 
-**فارسی**  
-گزارش کار تعاملی و کامل درس **آزمایشگاه فیزیک ۲** شامل آزمایش‌های **۱ تا ۱۰**  
-با جداول داده، محاسبهٔ خودکار، نمودار اسکتر + رگرسیون، مدار، مقاومت رنگی و خروجی چاپ A4.
+### 🇮🇷 فارسی
+گزارش کار تعاملی و کامل درس **آزمایشگاه فیزیک ۲** شامل آزمایش‌های **۱ تا ۱۰**.  
+جداول داده، محاسبهٔ خودکار مقاومت و خطا، نمودار اسکتر با رگرسیون خطی، نمایش مدار و مقاومت رنگی، و خروجی چاپ A4 با واترمارک.
 
-**English**  
-Interactive full lab-report system for **Physics Laboratory II** (Experiments **1–10**)  
-with data tables, automatic calculations, scatter + linear regression charts, circuits, color-code resistors, and A4 print output.
+### 🇬🇧 English
+An interactive full lab-report system for **Physics Laboratory II**, covering experiments **1 through 10**.  
+Includes data tables, automatic resistance and uncertainty calculations, scatter plots with linear regression, circuit visuals, resistor color bands, and A4 print output with watermarking.
 
 ---
 
 ## ✨ ویژگی‌ها | Features
 
-| Feature | توضیح | Description |
-|---------|--------|-------------|
-| 🧪 **آزمایش ۱ تا ۱۰** | گزارش کامل چندآزمایشی در یک فایل | Full multi-experiment lab report |
-| 🧮 **محاسبه خودکار** | \(R=V/I\) ، خطا، میانگین، شیب | Auto \(R\), uncertainty, mean, slope |
-| 📊 **نمودار آزمایشگاهی** | اسکتر + فیت خطی (حداقل مربعات) | Scatter + least-squares fit |
-| 🔌 **مدار و مقاومت رنگی** | نمایش بصری قطعات | Circuit + resistor color bands |
-| 🖨️ **چاپ A4** | هدر/فوتر و واترمارک در همه صفحات | Print-ready with watermark |
-| 🇮🇷 **راست‌چین کامل** | طراحی RTL فارسی | Fully RTL Persian UI |
-| 📱 **ریسپانسیو** | موبایل، تبلت، دسکتاپ | Mobile / tablet / desktop |
+| Feature | فارسی | English |
+|---------|--------|---------|
+| 🧪 **Experiments 1–10** | گزارش کامل چندآزمایشی در یک فایل | Full multi-experiment lab report in one file |
+| 🧮 **Auto calculation** | محاسبه \(R=V/I\)، خطا، میانگین و شیب | Auto \(R=V/I\), uncertainty, mean, and slope |
+| 📊 **Lab charts** | اسکتر + فیت خطی (حداقل مربعات) | Scatter + least-squares linear fit |
+| 🔌 **Circuit & resistor** | نمایش مدار و نوارهای رنگی مقاومت | Circuit view and resistor color bands |
+| 🖨️ **A4 print** | هدر، فوتر و واترمارک در همه صفحات | Header, footer, and watermark on every page |
+| 🇮🇷 **RTL UI** | رابط کاملاً راست‌چین و فارسی | Fully RTL Persian-first interface |
+| 📱 **Responsive** | موبایل، تبلت و دسکتاپ | Mobile, tablet, and desktop ready |
 
 ---
 
-## 🧪 محورهای آزمایش
+## 🧪 محورهای آزمایش | Experiment Topics
 
-- مقاومت و کد رنگی  
-- سری و موازی  
-- مدارهای ترکیبی  
-- پل وتستون  
-- تحقیق قانون اهم  
-- و سایر آزمایش‌های گزارش کامل ۱ تا ۱۰  
+| # | فارسی | English |
+|---|--------|---------|
+| 1–3 | مقاومت، سری، موازی | Resistance, series, parallel |
+| 4–5 | مدارهای ترکیبی و پل وتستون | Combined circuits & Wheatstone bridge |
+| 6 | تحقیق قانون اهم | Ohm’s law investigation |
+| 7–10 | ادامه آزمایش‌های گزارش کامل | Remaining full-report experiments |
 
 ---
 
-## 🚀 نحوه استفاده
+## 🚀 نحوه استفاده | How to Use
 
+### 🇮🇷 فارسی
 1. از **Live Demo** باز کن، یا فایل `index.html` را دانلود و در مرورگر باز کن  
-2. داده را وارد کن — محاسبات خودکار انجام می‌شود  
+2. داده‌ها را وارد کن — محاسبات به‌صورت خودکار انجام می‌شود  
 3. برای خروجی کاغذی: **Print → Save as PDF**
 
+### 🇬🇧 English
+1. Open the **Live Demo**, or download `index.html` and open it in your browser  
+2. Enter your measurements — calculations run automatically  
+3. For paper output: **Print → Save as PDF**
+
 ```bash
-# نیاز به نصب ندارد — فقط HTML را باز کنید
+# No install required — just open the HTML file
+# نیاز به نصب ندارد — فقط فایل HTML را باز کنید
